@@ -20,7 +20,7 @@ WICKED AI 2.2.7 | [GitHub repo](https://github.com/f3cuk/WICKED-AI)
 
 2. Copy the dayz_server.pbo folder to your Arma 2 OA@dayz_epoch_server\addons folder (or "PBO tool" for packing)
 
-3. Download the map ["@fallujah"]https://www.moddb.com/games/arma-2/addons/fallujah
+3. Download the map ["@fallujah"](https://www.moddb.com/games/arma-2/addons/fallujah)
 
 3. Copy the folder ["@fallujah"](https://www.moddb.com/games/arma-2/addons/fallujah) to your Serverroot
 
