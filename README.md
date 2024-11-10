@@ -1,4 +1,4 @@
-# Epoch-Chernarus-Package - Version 1.0
+# Epoch-Fallujah-Package - Version 1.0
 
 ## Epoch-Version 1.0.7.1 Map: Fallujah (1.2.1)
 
