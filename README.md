@@ -32,6 +32,12 @@ WICKED AI 2.2.7 | [GitHub repo](https://github.com/f3cuk/WICKED-AI)
 
 2. Edit the config.sqf in your Server.pbo in "\dayz_server\antihack\"
 
+## Starting order:
+
+1. Client: -mod=@fallujah;@DayZ_Epoch;  (use "Steamlink" --> "Extra/optional")
+
+2. Server: ca, @dayz_epoch, @dayz_epoch_server, @fallujah
+
 ## (WAI) Custom static missions with rewards ;-)
 (dayz_server\WAI\static\default.sqf)
 
@@ -42,13 +48,13 @@ WICKED AI 2.2.7 | [GitHub repo](https://github.com/f3cuk/WICKED-AI)
 Serverstart with "Steamlink":
 
 ```
-steam://run/33930//-connect=99.999.999.99%20-port=2302%20-mod=EXPANSION;@DayZ_Epoch;%20-nosplash%20-world=empty%20-nopause
+steam://run/33930//-connect=99.999.999.99%20-port=2302%20-mod=EXPANSION;@fallujah;@DayZ_Epoch;%20-nosplash%20-world=empty%20-nopause
 ```
 
 with password usage:
 
 ```
-steam://run/33930//-connect=99.999.999.99%20-port=2302%20-PASSWORD=password%20-mod=EXPANSION;@DayZ_Epoch;%20-nosplash%20-world=empty%20-nopause
+steam://run/33930//-connect=99.999.999.99%20-port=2302%20-PASSWORD=password%20-mod=EXPANSION;@fallujah;@DayZ_Epoch;%20-nosplash%20-world=empty%20-nopause
 ```
 
 ## Contact
